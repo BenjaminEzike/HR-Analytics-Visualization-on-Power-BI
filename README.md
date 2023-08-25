@@ -2,7 +2,7 @@
 
 A HR Visualization from two merged datafiles to create a 3 page BI report.
 
-![](BI Screenshot.png)
+![](BI_Screenshot.png)
 
 From the data, using the dax, it was established that the total number of employees in the organisation is 1,470 with with 588 females and 882 males.
 
