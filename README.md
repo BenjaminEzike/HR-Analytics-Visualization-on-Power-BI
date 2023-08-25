@@ -1,16 +1,17 @@
-# HR-Analytics-Visualization-on-Power-BI
-A visualization showing full insight into the human resource department of a company with the following details
+# HR Analytics Visualizaiton on Power BI
 
-Total number of employees in the organization
+A HR Visualization from two merged datafiles to create a 3 page BI report.
 
-Total number and percentage of male and female employees in the organization
+![](BI Screenshot.png)
 
-Highlighting the number and percentage of employees who haven't been promoted in the last 10 years and now due for promotion
+From the data, using the dax, it was established that the total number of employees in the organisation is 1,470 with with 588 females and 882 males.
 
-A horizontal barchart of the of how long sum of employees and how long they have worked in the organization
+A logic was established to promote employees that haven't been promoted within the last 10 years
 
-A vertical barchart of the number of employees in each of the service levels of the organizaion
+The company also wants to retrench employees that have worked with the organisation for more than 18 years
 
-The number and percentage of employees to be retrenched (those that have worked more than 18 years in the organization)
+A barchart to dispaly the number of years that employees have worked with the organisation
 
-A classification of employee's living distance from the organization into very close, close and very far, and how many employees in each distance category. 
+The number of employees on each service level of the organisation
+
+A pie chart categorizing how far employees live from the organizaiton into 'close', 'very close' and 'far' and how many in each category
